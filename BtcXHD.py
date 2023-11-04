@@ -24,7 +24,7 @@ with open(filename) as f:
 add = set(add)
 print('\n\n\n\n\n\n\n\n\n\n\n\n', Fore.RED, str(Crypto_devz), Style.RESET_ALL, '\n')
 
-def Crypto_devz_t():
+def Crypto_ixer_t():
 	w = 0
 	z = 0
 	print(Fore.YELLOW + '[*] Programmer Crypto_devz    ' + Fore.YELLOW + '\n[*] Telegram Channel: @Crypto_ixer   ' + Fore.YELLOW + '\n[*] Telegram iD @Crypto_devz\n' + Fore.YELLOW + '[*] All Address Type Generated Type:' + Fore.GREEN + '\n[*] P2PKH - P2SH - P2wSH - P2wPKH - Bech32\n')
